@@ -17,7 +17,7 @@ An Open Source Rename Telegram RoBot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/erichdanikeninfo/TG-Rename-Bot)
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/MOVIERG_NY) without having to run anything on your own
 
 #### The Hard Way
 
@@ -31,9 +31,9 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [TG Bots Updates](https://telegram.dog/ALL_MOVIES_LIABRARY)
+* [InFoTel Paid Apps](https://telegram.dog/ALL_MOVIES_LIABRARY)
+* [InFoTel Group](https://telegram.dog/ALL_MOVIES_LIABRARY)
 
 ## Credits, and Thanks to
 
