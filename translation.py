@@ -32,7 +32,7 @@ This is a @j_h_o_n_w_i_c_k Telegram Rename Bot!
 --------
 
 Support Group : @film_hub_official 
-@FH_Movie_requests'"
+@FH_Movie_requests"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
     IFLONG_FILE_NAME = """File Name limit allowed by Telegram is {alimit} characters.
